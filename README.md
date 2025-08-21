@@ -111,4 +111,4 @@ You can also open issues or start discussions on GitHub.
 ### Author
 
 Wellington Pinho
-[LinkedIn](linkedin.com/in/wellpinho/)
+[LinkedIn](https://linkedin.com/in/wellpinho/)
