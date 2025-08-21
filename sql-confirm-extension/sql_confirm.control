@@ -1,0 +1,4 @@
+comment = 'Experimental: require CONFIRM for DELETE/UPDATE without WHERE'
+default_version = '0.1'
+relocatable = true
+module_pathname = '$libdir/sql_confirm'
